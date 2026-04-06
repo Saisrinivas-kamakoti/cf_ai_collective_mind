@@ -19,6 +19,7 @@ Durable Objects store each user’s history. Vectorize indexes themes across all
 An AI-powered agent that builds a global map of interconnected thoughts.
 
 ## Setup
+```bash
 npx create-cloudflare@latest --template cloudflare/agents-starter
 cd cf_ai_collective_mind
 npm install
